@@ -1,5 +1,5 @@
 # import-loader [![npm version](https://badge.fury.io/js/import-loader.svg)](http://badge.fury.io/js/import-loader)
-Webpack loader to load files at once with glob
+Webpack loader to import files at once with glob
 
 # It's just a concept yet
 
