@@ -2,6 +2,8 @@
 Webpack loader to import files at once with glob
 
 # It's just a concept yet
+Inspired by
+* https://github.com/nekr/glob-loader
 
 ## Install
 
